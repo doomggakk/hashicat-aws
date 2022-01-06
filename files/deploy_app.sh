@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to enknkenknkenksnlkfnlsnefl;ksndkf;lnasflk;snf;lsfnkds;lfnds;alfn;dslaf
+  Welcome to enknkenknkenksnlkfnlsnefl;ksndkf;lnasflk;snf;lsfnkds;lfnds;alfn;dslafzcsvbsfb
   <!-- END -->
 
   </div>
